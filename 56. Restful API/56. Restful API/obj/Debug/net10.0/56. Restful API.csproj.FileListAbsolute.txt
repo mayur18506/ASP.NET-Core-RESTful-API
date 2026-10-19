@@ -1,0 +1,36 @@
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\bin\Debug\net10.0\appsettings.Development.json
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\bin\Debug\net10.0\appsettings.json
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\bin\Debug\net10.0\56. Restful API.staticwebassets.endpoints.json
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\bin\Debug\net10.0\56. Restful API.exe
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\bin\Debug\net10.0\56. Restful API.deps.json
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\bin\Debug\net10.0\56. Restful API.runtimeconfig.json
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\bin\Debug\net10.0\56. Restful API.dll
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\bin\Debug\net10.0\56. Restful API.pdb
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\obj\Debug\net10.0\56. Restful API.csproj.AssemblyReference.cache
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\obj\Debug\net10.0\56. Restful API.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\obj\Debug\net10.0\56. Restful API.AssemblyInfoInputs.cache
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\obj\Debug\net10.0\56. Restful API.AssemblyInfo.cs
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\obj\Debug\net10.0\56. Restful API.csproj.CoreCompileInputs.cache
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\obj\Debug\net10.0\56. Restful API.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\obj\Debug\net10.0\56. Restful API.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\obj\Debug\net10.0\scopedcss\bundle\56. Restful API.styles.css
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\obj\Debug\net10.0\staticwebassets.build.json
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\obj\Debug\net10.0\staticwebassets.development.json
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\obj\Debug\net10.0\swae.build.ex.cache
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\obj\Debug\net10.0\56. Rest.B40006A8.Up2Date
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\obj\Debug\net10.0\56. Restful API.dll
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\obj\Debug\net10.0\refint\56. Restful API.dll
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\obj\Debug\net10.0\56. Restful API.pdb
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\obj\Debug\net10.0\56. Restful API.genruntimeconfig.cache
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\obj\Debug\net10.0\ref\56. Restful API.dll
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP.NET CORE WEB API\56. Restful API\56. Restful API\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll

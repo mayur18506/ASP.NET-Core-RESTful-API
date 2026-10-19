@@ -1,0 +1,101 @@
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\bin\Debug\net10.0\appsettings.Development.json
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\bin\Debug\net10.0\appsettings.json
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\bin\Debug\net10.0\59.CRUD App using ASP CORE WEB API.staticwebassets.runtime.json
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\bin\Debug\net10.0\59.CRUD App using ASP CORE WEB API.staticwebassets.endpoints.json
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\bin\Debug\net10.0\59.CRUD App using ASP CORE WEB API.exe
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\bin\Debug\net10.0\59.CRUD App using ASP CORE WEB API.deps.json
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\bin\Debug\net10.0\59.CRUD App using ASP CORE WEB API.runtimeconfig.json
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\bin\Debug\net10.0\59.CRUD App using ASP CORE WEB API.dll
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\bin\Debug\net10.0\59.CRUD App using ASP CORE WEB API.pdb
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\59.CRUD App using ASP CORE WEB API.csproj.AssemblyReference.cache
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\59.CRUD App using ASP CORE WEB API.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\59.CRUD App using ASP CORE WEB API.AssemblyInfoInputs.cache
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\59.CRUD App using ASP CORE WEB API.AssemblyInfo.cs
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\59.CRUD App using ASP CORE WEB API.csproj.CoreCompileInputs.cache
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\59.CRUD App using ASP CORE WEB API.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\59.CRUD App using ASP CORE WEB API.RazorAssemblyInfo.cache
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\59.CRUD App using ASP CORE WEB API.RazorAssemblyInfo.cs
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\scopedcss\bundle\59.CRUD App using ASP CORE WEB API.styles.css
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\scopedcss\projectbundle\59.CRUD App using ASP CORE WEB API.bundle.scp.css
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\fj5h8wwmbp-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\7288ck61bf-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\38k0vsac6x-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\ddjv7s17hy-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\1hek9xlv85-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\v84lxi6oz4-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\qrk3dcge84-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\ke215mjbnm-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\344gl6ob6j-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\yhyy7vgylk-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\drx4w7wylf-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\6hox07f9th-{0}-ub07r2b239-ub07r2b239.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\z3j876eotn-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\b4shez3ubj-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\os8f4d9uiv-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\36nijcfyn4-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\rqhw57pq3g-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\rptf93hyq6-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\he1ctm0wpi-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\y2tw3sf6j1-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\jv5klawicu-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\fij81jw7gb-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\5a05uo9a82-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\zkh4tdprvq-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\f4fm5390b5-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\he4y74orii-{0}-06098lyss8-06098lyss8.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\e80ezrf23k-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\zplpdojy1l-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\95pfrqcgmo-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\x9uegyqm8f-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\m78uy80i11-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\ddm8g61xr2-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\8yf0c671ah-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\t0ojsmsxrl-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\57dqdn0jfu-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\2mae6k4gj3-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\e0uyxlo96q-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\0tzib4fgkp-{0}-493y06b0oq-493y06b0oq.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\e5bfdn2vra-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\1zbubvccb4-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\g8sl18vlgm-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\9g4k1kst2k-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\s4v5p7vj8g-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\hdomne6001-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\muysh6o2y6-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\pvsbil9ykc-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\cxkxbn2wx0-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\yuecp1cvle-{0}-47otxtyo56-47otxtyo56.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\yzmh0ggs5j-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\jal05m4vkd-{0}-356vix0kms-356vix0kms.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\7q3m9dtzsj-{0}-83jwlth58m-83jwlth58m.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\vy8ue6p094-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\bzowikl7hx-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\q4b1n0gxul-{0}-ag7o75518u-ag7o75518u.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\h7r5wn4hwp-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\e5f4zqw3xl-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\g9okdwjmhy-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\da1sg3vt7z-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\mbk4pf5xcn-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\gjb1au4ycc-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\aiscpaemcv-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\y1ixs0lkrf-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\35nn8chq0y-{0}-suosje9t9u-suosje9t9u.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\compressed\87ibdyimiw-{0}-suosje9t9u-suosje9t9u.gz
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\staticwebassets.build.json
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\staticwebassets.development.json
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\swae.build.ex.cache
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\59.CRUD .B7319D2E.Up2Date
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\59.CRUD App using ASP CORE WEB API.dll
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\refint\59.CRUD App using ASP CORE WEB API.dll
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\59.CRUD App using ASP CORE WEB API.pdb
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\59.CRUD App using ASP CORE WEB API.genruntimeconfig.cache
+D:\ASP.NET CORE WEB API\59.CRUD App using ASP CORE WEB API\59.CRUD App using ASP CORE WEB API\obj\Debug\net10.0\ref\59.CRUD App using ASP CORE WEB API.dll

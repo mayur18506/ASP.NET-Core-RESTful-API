@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET CORE WEB API\\58.CRUD Operation with EF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CB1F5B-B94B-2D80-FE3E-00DA544F9010}|58.CRUD Operation with EF\\58.CRUD Operation with EF.csproj|d:\\asp.net core web api\\58.crud operation with ef\\58.crud operation with ef\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CB1F5B-B94B-2D80-FE3E-00DA544F9010}|58.CRUD Operation with EF\\58.CRUD Operation with EF.csproj|solutionrelative:58.crud operation with ef\\controllers\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CB1F5B-B94B-2D80-FE3E-00DA544F9010}|58.CRUD Operation with EF\\58.CRUD Operation with EF.csproj|d:\\asp.net core web api\\58.crud operation with ef\\58.crud operation with ef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6CB1F5B-B94B-2D80-FE3E-00DA544F9010}|58.CRUD Operation with EF\\58.CRUD Operation with EF.csproj|solutionrelative:58.crud operation with ef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CB1F5B-B94B-2D80-FE3E-00DA544F9010}|58.CRUD Operation with EF\\58.CRUD Operation with EF.csproj|d:\\asp.net core web api\\58.crud operation with ef\\58.crud operation with ef\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CB1F5B-B94B-2D80-FE3E-00DA544F9010}|58.CRUD Operation with EF\\58.CRUD Operation with EF.csproj|solutionrelative:58.crud operation with ef\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CB1F5B-B94B-2D80-FE3E-00DA544F9010}|58.CRUD Operation with EF\\58.CRUD Operation with EF.csproj|d:\\asp.net core web api\\58.crud operation with ef\\58.crud operation with ef\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CB1F5B-B94B-2D80-FE3E-00DA544F9010}|58.CRUD Operation with EF\\58.CRUD Operation with EF.csproj|solutionrelative:58.crud operation with ef\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CB1F5B-B94B-2D80-FE3E-00DA544F9010}|58.CRUD Operation with EF\\58.CRUD Operation with EF.csproj|d:\\asp.net core web api\\58.crud operation with ef\\58.crud operation with ef\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CB1F5B-B94B-2D80-FE3E-00DA544F9010}|58.CRUD Operation with EF\\58.CRUD Operation with EF.csproj|solutionrelative:58.crud operation with ef\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CB1F5B-B94B-2D80-FE3E-00DA544F9010}|58.CRUD Operation with EF\\58.CRUD Operation with EF.csproj|d:\\asp.net core web api\\58.crud operation with ef\\58.crud operation with ef\\58.crud operation with ef.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A6CB1F5B-B94B-2D80-FE3E-00DA544F9010}|58.CRUD Operation with EF\\58.CRUD Operation with EF.csproj|solutionrelative:58.crud operation with ef\\58.crud operation with ef.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CB1F5B-B94B-2D80-FE3E-00DA544F9010}|58.CRUD Operation with EF\\58.CRUD Operation with EF.csproj|d:\\asp.net core web api\\58.crud operation with ef\\58.crud operation with ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CB1F5B-B94B-2D80-FE3E-00DA544F9010}|58.CRUD Operation with EF\\58.CRUD Operation with EF.csproj|solutionrelative:58.crud operation with ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP.NET CORE WEB API\\58.CRUD Operation with EF\\58.CRUD Operation with EF\\appsettings.json",
+              "RelativeDocumentMoniker": "58.CRUD Operation with EF\\appsettings.json",
+              "ToolTip": "D:\\ASP.NET CORE WEB API\\58.CRUD Operation with EF\\58.CRUD Operation with EF\\appsettings.json",
+              "RelativeToolTip": "58.CRUD Operation with EF\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-03T07:54:07.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE WEB API\\58.CRUD Operation with EF\\58.CRUD Operation with EF\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "58.CRUD Operation with EF\\Models\\Teacher.cs",
+              "ToolTip": "D:\\ASP.NET CORE WEB API\\58.CRUD Operation with EF\\58.CRUD Operation with EF\\Models\\Teacher.cs",
+              "RelativeToolTip": "58.CRUD Operation with EF\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:53:27.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE WEB API\\58.CRUD Operation with EF\\58.CRUD Operation with EF\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "58.CRUD Operation with EF\\Models\\Student.cs",
+              "ToolTip": "D:\\ASP.NET CORE WEB API\\58.CRUD Operation with EF\\58.CRUD Operation with EF\\Models\\Student.cs",
+              "RelativeToolTip": "58.CRUD Operation with EF\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:53:21.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE WEB API\\58.CRUD Operation with EF\\58.CRUD Operation with EF\\Models\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "58.CRUD Operation with EF\\Models\\SchoolDbContext.cs",
+              "ToolTip": "D:\\ASP.NET CORE WEB API\\58.CRUD Operation with EF\\58.CRUD Operation with EF\\Models\\SchoolDbContext.cs",
+              "RelativeToolTip": "58.CRUD Operation with EF\\Models\\SchoolDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:52:35.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "58.CRUD Operation with EF.http",
+              "DocumentMoniker": "D:\\ASP.NET CORE WEB API\\58.CRUD Operation with EF\\58.CRUD Operation with EF\\58.CRUD Operation with EF.http",
+              "RelativeDocumentMoniker": "58.CRUD Operation with EF\\58.CRUD Operation with EF.http",
+              "ToolTip": "D:\\ASP.NET CORE WEB API\\58.CRUD Operation with EF\\58.CRUD Operation with EF\\58.CRUD Operation with EF.http",
+              "RelativeToolTip": "58.CRUD Operation with EF\\58.CRUD Operation with EF.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-10-03T07:47:23.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE WEB API\\58.CRUD Operation with EF\\58.CRUD Operation with EF\\Program.cs",
+              "RelativeDocumentMoniker": "58.CRUD Operation with EF\\Program.cs",
+              "ToolTip": "D:\\ASP.NET CORE WEB API\\58.CRUD Operation with EF\\58.CRUD Operation with EF\\Program.cs",
+              "RelativeToolTip": "58.CRUD Operation with EF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:31:32.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE WEB API\\58.CRUD Operation with EF\\58.CRUD Operation with EF\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "58.CRUD Operation with EF\\Controllers\\StudentAPIController.cs",
+              "ToolTip": "D:\\ASP.NET CORE WEB API\\58.CRUD Operation with EF\\58.CRUD Operation with EF\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "58.CRUD Operation with EF\\Controllers\\StudentAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T07:30:22.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

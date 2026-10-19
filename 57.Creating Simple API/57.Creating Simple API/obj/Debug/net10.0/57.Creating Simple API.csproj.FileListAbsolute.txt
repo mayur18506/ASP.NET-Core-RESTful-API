@@ -1,0 +1,34 @@
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\bin\Debug\net10.0\appsettings.Development.json
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\bin\Debug\net10.0\appsettings.json
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\bin\Debug\net10.0\57.Creating Simple API.staticwebassets.endpoints.json
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\bin\Debug\net10.0\57.Creating Simple API.exe
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\bin\Debug\net10.0\57.Creating Simple API.deps.json
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\bin\Debug\net10.0\57.Creating Simple API.runtimeconfig.json
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\bin\Debug\net10.0\57.Creating Simple API.dll
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\bin\Debug\net10.0\57.Creating Simple API.pdb
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\obj\Debug\net10.0\57.Creating Simple API.csproj.AssemblyReference.cache
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\obj\Debug\net10.0\57.Creating Simple API.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\obj\Debug\net10.0\57.Creating Simple API.AssemblyInfoInputs.cache
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\obj\Debug\net10.0\57.Creating Simple API.AssemblyInfo.cs
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\obj\Debug\net10.0\57.Creating Simple API.csproj.CoreCompileInputs.cache
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\obj\Debug\net10.0\57.Creating Simple API.MvcApplicationPartsAssemblyInfo.cs
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\obj\Debug\net10.0\57.Creating Simple API.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\obj\Debug\net10.0\scopedcss\bundle\57.Creating Simple API.styles.css
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\obj\Debug\net10.0\staticwebassets.build.json
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\obj\Debug\net10.0\staticwebassets.development.json
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\obj\Debug\net10.0\swae.build.ex.cache
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\obj\Debug\net10.0\57.Creat.32574A0A.Up2Date
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\obj\Debug\net10.0\57.Creating Simple API.dll
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\obj\Debug\net10.0\refint\57.Creating Simple API.dll
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\obj\Debug\net10.0\57.Creating Simple API.pdb
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\obj\Debug\net10.0\57.Creating Simple API.genruntimeconfig.cache
+D:\ASP.NET CORE WEB API\57.Creating Simple API\57.Creating Simple API\obj\Debug\net10.0\ref\57.Creating Simple API.dll
